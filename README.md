@@ -1,6 +1,28 @@
 # Quadratic Equations Solver
 
-[TODO. There will be project description]
+Файл quadratic_equation.py содержит функцию решения квадратных уравнений. tests.py - набор тестов к ней.
+
+# Quickstart
+
+Скрипт требует для своей работы установленный интерпретатор Python версии 3.5
+
+Запуск на Linux:
+
+```#!bash
+
+$ python tests.py
+
+```
+Запуск на Windows происходит аналогично.
+
+Пример вывода скрипта:
+```
+....
+----------------------------------------------------------------------
+Ran 4 tests in 0.000s
+
+OK
+```
 
 # Project Goals
 
